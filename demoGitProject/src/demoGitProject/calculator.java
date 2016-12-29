@@ -5,5 +5,7 @@ public class calculator {
 
 	public void multiply(){
 		System.out.println("multiply Method");
+		
+		System.out.println("hi there :)");
 	}
 }
